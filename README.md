@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao+Ze+Whong+%F0%9F%91%8B;C%2B%2B+%7C+C+%7C+UI%2FUX+Learner;Electronic+Engineering+Student;Building+slowly%2C+learning+properly" alt="Typing SVG" />
