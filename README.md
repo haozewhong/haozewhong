@@ -78,4 +78,4 @@ I’m learning programming and design step by step.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Slowly+building.;Properly+learning.;Still+improving." alt="Footer Typing SVG" />
 
 </div>
-```
+
