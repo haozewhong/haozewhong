@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi nice to meet me 👋
 
 <!--
 **haozewhong/haozewhong** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
